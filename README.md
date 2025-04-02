@@ -1,6 +1,6 @@
 # react-pizza-pro
 
-**Disclaimer**: This project is based on the [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) Jonas Schmedtmann's course (project 1 from section Part 4: Professional React Development). The primary purpose of this repository is for personal learning and practice. All credit for the original design and concepts goes to Jonas Schmedtmann. This repository serves as my implementation of the project following the course.
+**Disclaimer**: This project is based on [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) Jonas Schmedtmann's course (project 1 from section Part 4: Professional React Development). The primary purpose of this repository is for personal learning and practice. All credit for the original design and concepts goes to Jonas Schmedtmann. This repository serves as my implementation of the project following the course.
 
 ## Overview
 Welcome to Pizza Pro! You can easily order your favorite pizzas without the need for complicated registrations. Simply enter your name, select the pizza/s you want, and provide your first name, phone number, and delivery address to complete your order. You can even set a priority for faster service. Pizza Pro makes ordering delicious pizza simple and quick—perfect for when you're hungry and don't want any hassle!
@@ -9,6 +9,7 @@ Welcome to Pizza Pro! You can easily order your favorite pizzas without the need
 - React
 - Tailwind CSS
 - Redux
+- React Router
 
 ## How to Run the Project
 1. Install the packages
